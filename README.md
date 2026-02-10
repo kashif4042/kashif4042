@@ -1,24 +1,25 @@
-<h2>Kashif Siddiqui</h2>
+## Hi, I'm Kashif 👋
 
-computing student with a focus on web development.  
-working across frontend, backend, and core programming concepts.  
-learning by writing code and improving through practice.
+### A Web Developer from India
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,react,javascript,mongodb,git,github,html,css" />
+`building things on the web`
+
+- 💻 currently working on **MERN stack projects**
+- 🌱 currently learning **React, Node.js, Express, MongoDB**
+- 🧠 improving **JavaScript fundamentals & backend logic**
+- 🤝 looking to collaborate on **web development projects**
+
+
+### Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
-<!--
-**kashif4042/kashif4042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages & Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,react,nodejs,mongodb,git,github,html,css" />
+</p>
