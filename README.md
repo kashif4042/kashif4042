@@ -1,4 +1,12 @@
-## Hi there 👋
+<h2>Kashif Siddiqui</h2>
+
+computing student with a focus on web development.  
+working across frontend, backend, and core programming concepts.  
+learning by writing code and improving through practice.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,react,javascript,mongodb,git,github,html,css" />
+</p>
 
 <!--
 **kashif4042/kashif4042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
