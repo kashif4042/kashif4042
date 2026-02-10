@@ -12,7 +12,7 @@
 
 ### Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/kashif-siddiqui-3ba209395?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
