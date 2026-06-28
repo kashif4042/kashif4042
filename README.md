@@ -7,7 +7,7 @@
 - 💻 currently working on **MERN stack projects**
 - 🌱 currently learning **React, Node.js, Express, MongoDB**
 - 🧠 improving **JavaScript fundamentals & backend logic**
-- 🤝 looking to collaborate on **web development projects**
+- 🤝 looking to collaborate on **web development projects*
 
 
 ### Connect with me:
