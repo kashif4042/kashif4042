@@ -4,8 +4,8 @@
 
 `building things on the web`
 
-- 💻 currently working on **MERN stack projects**
-- 🌱 currently learning **React, Node.js, Express, MongoDB**
+- 💻 currently working on **JAVA Fullstack projects**
+- 🌱 currently learning **SpringBoot, Node.js, Express, MongoDB**
 - 🧠 improving **JavaScript fundamentals & backend logic**
 - 🤝 looking to collaborate on **web development projects*
 
